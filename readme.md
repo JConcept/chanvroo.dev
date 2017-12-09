@@ -15,7 +15,7 @@ __Chanvroo__ sera une solution pour tout le monde afin de vivre dans un monde pl
 	- et de la dépolution des sols
 
 ## Ce que nous feront :
-Nous exploiteront des champs de chanvre afin de réaliser des vêtements écologiques, des bio carburants et des matériaux écologiques et durable.
+Nous exploiteront des champs de chanvre afin de réaliser des vêtements écologiques, des bio carburants et des matériaux écologiques et durable.  
 -> Avoir un taux de THC inférieur à 0,3 % (ce qui le rend non hallucinogène)
 
 ## Pour mener à bien ce projet, j'aurais besoin de :
