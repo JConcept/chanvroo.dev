@@ -2,6 +2,8 @@
 
 > __De nouvelles technologies pour un monde plus écologique__
 
+__Voici la présentation faite lors du _be Mor(e)_ organisé par Startup Maroc__
+
 Bonjour, je m'appelle Jean-Christophe Lepot et je suis étudiant à la codingschool de la __Molengeek__.
 
 __Chanvroo__ sera une solution pour tout le monde afin de vivre dans un monde plus écologique et ainsi résoudre __les problématiques de gaspillage et de pollution__.
@@ -15,7 +17,7 @@ __Chanvroo__ sera une solution pour tout le monde afin de vivre dans un monde pl
 	- et de la dépolution des sols
 
 ## Ce que nous feront :
-Nous exploiteront des champs de chanvre afin de réaliser des vêtements écologiques, des bio carburants et des matériaux écologiques et durable.  
+Nous exploiteront des champs de chanvre afin de réaliser des vêtements écologiques, des bio carburants et des matériaux écologiques et durables.  
 -> Avoir un taux de THC inférieur à 0,3 % (ce qui le rend non hallucinogène)
 
 ## Pour mener à bien ce projet, j'aurais besoin de :
