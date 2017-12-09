@@ -1,10 +1,4 @@
-<style>
-	img{
-		max-width:300px;
-		text-align: center;
-	}
-</style>
-![Logo Chanvroo](./chanvroo/logo.png)
+<img style="max-width:300px;text-align: center;" src="./chanvroo/logo.png" />
 # Chanvroo
 
 > __De nouvelles technologies pour un monde plus écologique__
