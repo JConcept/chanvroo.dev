@@ -1,3 +1,4 @@
+![Logo Chanvroo](./chanvroo/logo.png)
 # Chanvroo
 
 > __De nouvelles technologies pour un monde plus écologique__
