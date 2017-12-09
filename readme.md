@@ -1,3 +1,9 @@
+<style>
+	img{
+		max-width:300px;
+		text-align: center;
+	}
+</style>
 ![Logo Chanvroo](./chanvroo/logo.png)
 # Chanvroo
 
