@@ -2,7 +2,7 @@
 
 > __De nouvelles technologies pour un monde plus écologique__
 
-Bonjour, je m'appelle Jean-Christophe Lepot et je suis étudiant à la codingschool de la __Molengeek__. <!-- Aujourd'hui, je vous présente __Chanvroo__ ! -->
+Bonjour, je m'appelle Jean-Christophe Lepot et je suis étudiant à la codingschool de la __Molengeek__.
 
 __Chanvroo__ sera une solution pour tout le monde afin de vivre dans un monde plus écologique et ainsi résoudre __les problématiques de gaspillage et de pollution__.
 
@@ -10,9 +10,13 @@ __Chanvroo__ sera une solution pour tout le monde afin de vivre dans un monde pl
 - du textille
 - des bio carburants
 - dans les matériaux de construction
+- Et nous optimeseront nos process dans les domaines de :
+	- l'agriculture
+	- et de la dépolution des sols
 
-<!-- ## Ce que nous feront : -->
-Nous exploiteront des champs de chanvre afin de réaliser nos produits <!-- des vêtements écologiques, des bio carburants et des matériaux écologiques et durable. -->
+## Ce que nous feront :
+Nous exploiteront des champs de chanvre afin de réaliser des vêtements écologiques, des bio carburants et des matériaux écologiques et durable.
+-> Avoir un taux de THC inférieur à 0,3 % (ce qui le rend non hallucinogène)
 
 ## Pour mener à bien ce projet, j'aurais besoin de :
 * Plantation ou Micro Plantation
@@ -23,17 +27,7 @@ Nous exploiteront des champs de chanvre afin de réaliser nos produits <!-- des 
 
 ## Contrairement aux autres concurents 
 * En carburant utilisant des énergies fociles 
-* En textille utilisant le coton <!-- et faisant une sur exploitation des sols finissant par les poluer -->
-* En matériaux qui ne sont pas durable <!-- et qui ont une énergie grise trop importante surtout au niveau des bétons -->
+* En textille utilisant le coton et faisant une sur exploitation des sols finissant par les poluer
+* En matériaux qui ne sont pas durable et qui ont une énergie grise trop importante surtout au niveau des bétons
 
 Merci de m'avoir écouté et votez __Chanvroo__ numéro 39 pour un monde plus écologique !
-
-
-
-
-
-
-<!-- (- Et nous optimeseront nos process dans les domaines de :
-	- l'agriculture
-	- et de la dépolution des sols) -->
-~6 crée des goutes d'eau
