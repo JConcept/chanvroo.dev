@@ -4,7 +4,7 @@
 
 # Chanvroo
 
-> __L'or vert du Maroc__
+> __De nouvelles technologies pour un monde plus écologique__
 
 __Voici la présentation faite lors du _be Mor(e)_ organisé par Startup Maroc__
 
@@ -36,4 +36,16 @@ Nous exploiteront des champs de chanvre afin de réaliser des vêtements écolog
 * En textille utilisant le coton et faisant une sur exploitation des sols finissant par les poluer
 * En matériaux qui ne sont pas durable et qui ont une énergie grise trop importante surtout au niveau des bétons
 
-Merci de m'avoir écouté et votez __Chanvroo__ pour un monde plus écologique !
+Merci de m'avoir écouté et votez __Chanvroo__ numéro 39 pour un monde plus écologique !
+
+
+Loi
+Technologie de rupture
+améliorer l'avis des client (plus robuste, réduire les couts, améliorer la vie etc.)
+
+Plus facile à vendre :
+Identification du porteur des cartes sim
+-> qq semaines avant la loi a signer une marque 
+
+Idem loi des sacs de plastique
+
