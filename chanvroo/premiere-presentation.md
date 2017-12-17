@@ -1,6 +1,6 @@
 <a href="https://www.f6s.com/chanvroo?follow=1" target="_blank" title="Follow Chanvroo on F6S"><img src="https://www.f6s.com/images/f6s-follow-white.png" border="0" width="78" height="22 " alt="Follow Chanvroo on F6S" style="width: 78px; height: 22px; padding: 0px; margin: 0px;" /></a>
 
-<img style="max-width:300px;display: block;margin: 0 auto;" src="./chanvroo/logo.png" />
+<img style="max-width:300px;display: block;margin: 0 auto;" src="../chanvroo/logo.png" />
 
 # Chanvroo
 
@@ -37,15 +37,3 @@ Nous exploiteront des champs de chanvre afin de réaliser des vêtements écolog
 * En matériaux qui ne sont pas durable et qui ont une énergie grise trop importante surtout au niveau des bétons
 
 Merci de m'avoir écouté et votez __Chanvroo__ numéro 39 pour un monde plus écologique !
-
-
-Loi
-Technologie de rupture
-améliorer l'avis des client (plus robuste, réduire les couts, améliorer la vie etc.)
-
-Plus facile à vendre :
-Identification du porteur des cartes sim
--> qq semaines avant la loi a signer une marque 
-
-Idem loi des sacs de plastique
-
